@@ -1,0 +1,114 @@
+<UserControl x:Class="StudentManager.Views.ProfileView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:helpers="clr-namespace:StudentManager.Helpers"
+             xmlns:viewmodels="clr-namespace:StudentManager.ViewModels"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:ProfileViewModel}">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="4">
+            <TextBlock Text="Tài khoản nhân viên" Style="{StaticResource PageTitle}" />
+            <TextBlock Text="Quản lý thông tin đăng nhập, lương giải mã và cặp khóa local dùng cho nhập bảng điểm."
+                       Foreground="{StaticResource TextMuted}"
+                       Margin="0,0,0,18" />
+
+            <Border Style="{StaticResource CardBorder}" Margin="0,0,0,12">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Border Width="84"
+                            Height="84"
+                            CornerRadius="42"
+                            Background="{StaticResource AccentBrushSoft}"
+                            VerticalAlignment="Top">
+                        <TextBlock FontFamily="Segoe MDL2 Assets"
+                                   Text="&#xE77B;"
+                                   FontSize="34"
+                                   Foreground="{StaticResource AccentBrushDark}"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center" />
+                    </Border>
+
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="{Binding HOTEN}"
+                                   FontSize="24"
+                                   FontWeight="SemiBold"
+                                   Foreground="{StaticResource TextPrimary}" />
+                        <TextBlock Text="{Binding EMAIL}" Margin="0,6,0,0" Foreground="{StaticResource TextMuted}" />
+
+                        <UniformGrid Columns="3" Margin="0,18,0,0">
+                            <StackPanel Margin="0,0,12,0">
+                                <TextBlock Text="Mã nhân viên" Foreground="{StaticResource TextMuted}" />
+                                <TextBlock Text="{Binding MANV}" FontWeight="SemiBold" Margin="0,6,0,0" />
+                            </StackPanel>
+                            <StackPanel Margin="0,0,12,0">
+                                <TextBlock Text="Tên đăng nhập" Foreground="{StaticResource TextMuted}" />
+                                <TextBlock Text="{Binding TENDN}" FontWeight="SemiBold" Margin="0,6,0,0" />
+                            </StackPanel>
+                            <StackPanel>
+                                <TextBlock Text="Lương giải mã" Foreground="{StaticResource TextMuted}" />
+                                <StackPanel Orientation="Horizontal" Margin="0,6,0,0">
+                                    <TextBlock Text="{Binding DecryptedSalary}" FontWeight="SemiBold" Foreground="{StaticResource AccentBrushDark}" Margin="0,0,10,0" />
+                                    <Button Content="Xem lương" Command="{Binding ShowSalaryCommand}" Style="{StaticResource GhostBtn}" Padding="12,8" />
+                                </StackPanel>
+                            </StackPanel>
+                        </UniformGrid>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <Border Style="{StaticResource CardBorder}" Margin="0,0,0,12">
+                <StackPanel>
+                    <TextBlock Text="Khóa RSA local cho nhập điểm" Style="{StaticResource SectionTitle}" />
+                    <TextBlock Text="{Binding KeyStatus}" Margin="0,10,0,0" TextWrapping="Wrap" />
+                    <TextBlock Text="{Binding PublicKeyPath}" Margin="0,10,0,0" Foreground="{StaticResource TextMuted}" TextWrapping="Wrap" />
+                    <TextBlock Text="{Binding PrivateKeyPath}" Margin="0,4,0,0" Foreground="{StaticResource TextMuted}" TextWrapping="Wrap" />
+                    <Button Content="Tạo lại cặp khóa local"
+                            Command="{Binding GenerateNewKeysCommand}"
+                            Style="{StaticResource PrimaryBtnFixed}"
+                            HorizontalAlignment="Left"
+                            Margin="0,16,0,0" />
+                </StackPanel>
+            </Border>
+
+            <Border Style="{StaticResource CardBorder}">
+                <StackPanel>
+                    <TextBlock Text="Đổi mật khẩu" Style="{StaticResource SectionTitle}" />
+                    <UniformGrid Columns="3" Margin="0,14,0,14">
+                        <StackPanel Margin="0,0,12,0">
+                            <TextBlock Text="Mật khẩu hiện tại" Margin="0,0,0,6" />
+                            <PasswordBox helpers:PasswordBoxAssistant.BindPassword="True"
+                                         helpers:PasswordBoxAssistant.BoundPassword="{Binding OldPassword, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                        </StackPanel>
+                        <StackPanel Margin="0,0,12,0">
+                            <TextBlock Text="Mật khẩu mới" Margin="0,0,0,6" />
+                            <PasswordBox helpers:PasswordBoxAssistant.BindPassword="True"
+                                         helpers:PasswordBoxAssistant.BoundPassword="{Binding NewPassword, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                        </StackPanel>
+                        <StackPanel>
+                            <TextBlock Text="Xác nhận mật khẩu mới" Margin="0,0,0,6" />
+                            <PasswordBox helpers:PasswordBoxAssistant.BindPassword="True"
+                                         helpers:PasswordBoxAssistant.BoundPassword="{Binding ConfirmPassword, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                        </StackPanel>
+                    </UniformGrid>
+
+                    <Button Content="Đổi mật khẩu"
+                            Command="{Binding ChangePasswordCommand}"
+                            Style="{StaticResource GhostBtn}"
+                            HorizontalAlignment="Left" />
+
+                    <TextBlock Text="{Binding StatusMessage}"
+                               Margin="0,14,0,0"
+                               Foreground="{StaticResource AccentBrushDark}"
+                               FontWeight="SemiBold"
+                               TextWrapping="Wrap" />
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>
