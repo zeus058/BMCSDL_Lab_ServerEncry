@@ -1,174 +1,59 @@
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\StudentManager.exe.config
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\StudentManager.exe
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\StudentManager.pdb
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\ClosedXML.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\Dapper.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\DocumentFormat.OpenXml.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\ExcelNumberFormat.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\Irony.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\LiveCharts.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\LiveCharts.Wpf.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\Newtonsoft.Json.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\SixLabors.Fonts.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Buffers.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Data.SqlClient.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.IO.Packaging.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Memory.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Numerics.Vectors.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
-d:\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\XLParser.dll
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.csproj.AssemblyReference.cache
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.csproj.SuggestedBindingRedirects.cache
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.exe.config
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\App.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\CourseView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\DashboardView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\LoginView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MainView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MonitorView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ProfileView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StudentView.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\App.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.cache
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.lref
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Theme.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\CourseView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\DashboardView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\LoginView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MainView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MonitorView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ProfileView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StudentView.baml
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.g.resources
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfoInputs.cache
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfo.cs
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.csproj.CoreCompileInputs.cache
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentM.8DAA3114.Up2Date
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.exe
-d:\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.pdb
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\StudentManager.exe.config
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\StudentManager.exe
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\StudentManager.pdb
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\ClosedXML.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\Dapper.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\DocumentFormat.OpenXml.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\ExcelNumberFormat.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\Irony.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\LiveCharts.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\LiveCharts.Wpf.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\Newtonsoft.Json.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\SixLabors.Fonts.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Buffers.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Data.SqlClient.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.IO.Packaging.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Memory.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Numerics.Vectors.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\bin\Debug\net48\XLParser.dll
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.csproj.AssemblyReference.cache
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.csproj.SuggestedBindingRedirects.cache
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.exe.config
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\App.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\CourseView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\DashboardView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\LoginView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MainView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MonitorView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ProfileView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StudentView.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\App.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.cache
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.lref
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Theme.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ClassView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\CourseView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\DashboardView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\LoginView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MainView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\MonitorView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\ProfileView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\Views\StudentView.baml
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.g.resources
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfoInputs.cache
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfo.cs
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.csproj.CoreCompileInputs.cache
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentM.8DAA3114.Up2Date
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.exe
-D:\BMCSDL\LAB_BMCSDL\src\StudentManager\obj\Debug\net48\StudentManager.pdb
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\StudentManager.exe.config
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\StudentManager.exe
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\StudentManager.pdb
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\ClosedXML.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\Dapper.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\DocumentFormat.OpenXml.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\ExcelNumberFormat.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\Irony.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\LiveCharts.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\LiveCharts.Wpf.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\Newtonsoft.Json.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\SixLabors.Fonts.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\System.Buffers.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\System.Data.SqlClient.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\System.IO.Packaging.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\System.Memory.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\System.Numerics.Vectors.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\bin\Debug\net48\XLParser.dll
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.csproj.AssemblyReference.cache
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.csproj.SuggestedBindingRedirects.cache
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.exe.config
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\App.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\ClassView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\CourseView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\DashboardView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\LoginView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\MainView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\MonitorView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\ProfileView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\StudentView.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\App.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.cache
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.lref
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Theme.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\ClassView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\CourseView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\DashboardView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\LoginView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\MainView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\MonitorView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\ProfileView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\Views\StudentView.baml
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.g.resources
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfoInputs.cache
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfo.cs
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.csproj.CoreCompileInputs.cache
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentM.8DAA3114.Up2Date
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.exe
-D:\BMCSDL\LAB_BMCSDL - Fix\src\StudentManager\obj\Debug\net48\StudentManager.pdb
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\StudentManager.exe.config
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\StudentManager.exe
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\StudentManager.pdb
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\ClosedXML.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\Dapper.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\DocumentFormat.OpenXml.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\ExcelNumberFormat.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\Irony.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\LiveCharts.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\LiveCharts.Wpf.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\Newtonsoft.Json.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\SixLabors.Fonts.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\System.Buffers.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\System.Data.SqlClient.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\System.IO.Packaging.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\System.Memory.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\System.Numerics.Vectors.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\bin\Debug\net48\XLParser.dll
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.csproj.AssemblyReference.cache
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.csproj.SuggestedBindingRedirects.cache
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.exe.config
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\App.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\ClassView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\CourseView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\DashboardView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\LoginView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\MainView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\MonitorView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\ProfileView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\StudentView.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\App.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.cache
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager_MarkupCompile.lref
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Theme.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\ClassTranscriptView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\ClassView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\CourseView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\DashboardView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\GradeEntryView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\LoginView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\MainView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\MonitorView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\ProfileView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\StaffProfileView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\Views\StudentView.baml
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.g.resources
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfoInputs.cache
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.AssemblyInfo.cs
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.csproj.CoreCompileInputs.cache
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.sourcelink.json
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentM.8DAA3114.Up2Date
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.exe
+d:\BMCSDL\LAB_BMCSDL - Lab3\src\StudentManager\obj\Debug\net48\StudentManager.pdb

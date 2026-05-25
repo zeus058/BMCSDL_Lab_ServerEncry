@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1aUAUfW7LyA=",
+  "dgSpecHash": "FEgovhQtAvw=",
   "success": true,
-  "projectFilePath": "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj",
+  "projectFilePath": "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trang\\.nuget\\packages\\closedxml\\0.102.2\\closedxml.0.102.2.nupkg.sha512",
     "C:\\Users\\trang\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
@@ -37,9 +37,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "projectPath": "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj",
+      "projectPath": "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj",
+      "filePath": "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         ".NETFramework,Version=v4.8",

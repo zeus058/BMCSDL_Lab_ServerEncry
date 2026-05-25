@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj": {}
+    "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj": {}
   },
   "projects": {
-    "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj": {
+    "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj",
+        "projectUniqueName": "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj",
         "projectName": "StudentManager",
-        "projectPath": "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\StudentManager.csproj",
+        "projectPath": "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\StudentManager.csproj",
         "packagesPath": "C:\\Users\\trang\\.nuget\\packages\\",
-        "outputPath": "D:\\BMCSDL\\LAB_BMCSDL - Fix\\src\\StudentManager\\obj\\",
+        "outputPath": "d:\\BMCSDL\\LAB_BMCSDL - Lab3\\src\\StudentManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trang\\AppData\\Roaming\\NuGet\\NuGet.Config"
