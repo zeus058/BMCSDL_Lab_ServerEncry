@@ -1,4 +1,4 @@
-# Kimi - Hệ Thống Quản Lý Sinh Viên Bảo Mật (WPF) - Lab 3
+# Kimi - Hệ Thống Quản Lý Sinh Viên Bảo Mật - Lab 3
 
 <!-- Các Badges giới thiệu và công nghệ -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](https://opensource.org/licenses/MIT)
